@@ -1,0 +1,11 @@
+.swiper-button-next::after{
+    font-size: 24px;
+    margin-left: 6px;
+    color: white;
+}
+
+.swiper-button-prev::after {
+    font-size: 24px;
+    margin-right: 6px;
+    color: white;
+  }
